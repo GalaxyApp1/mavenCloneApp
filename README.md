@@ -1,1 +1,1 @@
-# mavenCloneApp
+# maven-etech-application
